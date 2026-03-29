@@ -18,7 +18,7 @@ export default function About() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-orange-600 text-white">
               <Link2 size={20} />
             </div>
-            <span>Shorten<span className="text-orange-600">Real</span></span>
+            <span>Link<span className="text-orange-600">ABD</span></span>
           </Link>
           <Link href="/" className="flex items-center gap-2 text-sm font-medium text-neutral-600 hover:text-orange-600 transition-colors">
             <ArrowLeft size={16} /> Back to Home
@@ -32,10 +32,10 @@ export default function About() {
         transition={{ duration: 0.5 }}
         className="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8"
       >
-        <h1 className="text-4xl font-black tracking-tight text-neutral-900 sm:text-5xl">About ShortenReal</h1>
+        <h1 className="text-4xl font-black tracking-tight text-neutral-900 sm:text-5xl">About LinkABD</h1>
         <div className="mt-8 space-y-6 text-lg leading-8 text-neutral-600">
           <p>
-            ShortenReal was born out of a simple idea: Why do we need massive databases just to shorten a link? 
+            LinkABD was born out of a simple idea: Why do we need massive databases just to shorten a link? 
             Most URL shorteners track your every move, store your data indefinitely, and require complex backends.
           </p>
           <p>
@@ -50,7 +50,7 @@ export default function About() {
           </ul>
           <p className="pt-4 border-t border-neutral-200">
             Our mission is to provide a transparent, secure, and incredibly fast tool for the modern web. 
-            Whether you&apos;re sharing a long research paper link or a complex tracking URL, ShortenReal makes it 
+            Whether you&apos;re sharing a long research paper link or a complex tracking URL, LinkABD makes it 
             clean and manageable without the baggage of traditional services.
           </p>
         </div>

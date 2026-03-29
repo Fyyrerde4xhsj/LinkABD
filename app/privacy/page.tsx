@@ -18,7 +18,7 @@ export default function Privacy() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-orange-600 text-white">
               <Link2 size={20} />
             </div>
-            <span>Shorten<span className="text-orange-600">Real</span></span>
+            <span>Link<span className="text-orange-600">ABD</span></span>
           </Link>
           <Link href="/" className="flex items-center gap-2 text-sm font-medium text-neutral-600 hover:text-orange-600 transition-colors">
             <ArrowLeft size={16} /> Back to Home
@@ -36,14 +36,14 @@ export default function Privacy() {
         <div className="mt-8 space-y-6 text-lg leading-8 text-neutral-600">
           <p className="text-sm font-bold uppercase tracking-widest text-neutral-400">Last Updated: March 29, 2026</p>
           <p>
-            At ShortenReal, your privacy is our top priority. Our entire business model is built around 
+            At LinkABD, your privacy is our top priority. Our entire business model is built around 
             <strong> not collecting data</strong>. This Privacy Policy explains how we handle information 
             (or rather, how we don&apos;t handle it).
           </p>
           
           <h2 className="text-2xl font-bold text-neutral-900 pt-4">1. Data Collection</h2>
           <p>
-            ShortenReal does not store any URLs you shorten in a database. The long URL is encoded into 
+            LinkABD does not store any URLs you shorten in a database. The long URL is encoded into 
             a Base64 string and included directly in the short link. We do not store your IP address, 
             browser information, or location data.
           </p>

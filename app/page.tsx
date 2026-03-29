@@ -82,7 +82,7 @@ export default function Home() {
             >
               <Link2 size={20} />
             </motion.div>
-            <span>Shorten<span className="text-orange-600">Real</span></span>
+            <span>Link<span className="text-orange-600">ABD</span></span>
           </Link>
           <div className="hidden space-x-8 text-sm font-medium text-neutral-600 md:flex">
             {['About', 'Contact', 'Privacy', 'Terms'].map((item) => (
@@ -272,7 +272,7 @@ export default function Home() {
                 <div className="flex h-6 w-6 items-center justify-center rounded bg-orange-600 text-white">
                   <Link2 size={14} />
                 </div>
-                <span>ShortenReal</span>
+                <span>LinkABD</span>
               </Link>
               <p className="mt-4 text-sm text-neutral-500">
                 The world&apos;s simplest URL shortener. No database, no tracking, just links.
@@ -295,12 +295,12 @@ export default function Home() {
             <div>
               <h3 className="text-sm font-semibold text-neutral-900">Contact</h3>
               <ul className="mt-4 space-y-2 text-sm text-neutral-500">
-                <li className="flex items-center gap-2"><Mail size={14} /> support@shortenreal.com</li>
+                <li className="flex items-center gap-2"><Mail size={14} /> support@linkabd.com</li>
               </ul>
             </div>
           </div>
           <div className="mt-12 border-t border-neutral-200 pt-8 text-center text-xs text-neutral-400">
-            &copy; {new Date().getFullYear()} ShortenReal. All rights reserved.
+            &copy; {new Date().getFullYear()} LinkABD. All rights reserved.
           </div>
         </div>
       </footer>

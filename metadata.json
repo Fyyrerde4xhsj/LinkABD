@@ -1,5 +1,5 @@
 {
-  "name": "Realtime URL Shortener",
+  "name": "LinkABD",
   "description": "A stateless, database-free URL shortener that uses Base64 encoding for instant redirection.",
   "requestFramePermissions": []
 }

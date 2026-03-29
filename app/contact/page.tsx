@@ -25,7 +25,7 @@ export default function Contact() {
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-orange-600 text-white">
               <Link2 size={20} />
             </div>
-            <span>Shorten<span className="text-orange-600">Real</span></span>
+            <span>Link<span className="text-orange-600">ABD</span></span>
           </Link>
           <Link href="/" className="flex items-center gap-2 text-sm font-medium text-neutral-600 hover:text-orange-600 transition-colors">
             <ArrowLeft size={16} /> Back to Home
@@ -128,7 +128,7 @@ export default function Contact() {
             </div>
             <div>
               <p className="text-sm font-bold uppercase tracking-widest text-neutral-900">Email Support</p>
-              <p className="text-lg text-neutral-500">support@shortenreal.com</p>
+              <p className="text-lg text-neutral-500">support@linkabd.com</p>
             </div>
           </motion.div>
         </div>
