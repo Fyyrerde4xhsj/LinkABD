@@ -1,0 +1,5 @@
+{
+  "name": "Realtime URL Shortener",
+  "description": "A stateless, database-free URL shortener that uses Base64 encoding for instant redirection.",
+  "requestFramePermissions": []
+}
